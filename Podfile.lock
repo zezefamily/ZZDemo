@@ -1,0 +1,16 @@
+PODS:
+  - ZZDebugTool (0.1.0)
+
+DEPENDENCIES:
+  - ZZDebugTool (from `./Lib/ZZDebugTool`)
+
+EXTERNAL SOURCES:
+  ZZDebugTool:
+    :path: "./Lib/ZZDebugTool"
+
+SPEC CHECKSUMS:
+  ZZDebugTool: 5ba29c7bfb006b25bcf2c0f3a9c2a7be00c38aae
+
+PODFILE CHECKSUM: 73b69ba9047ef3b183763092452ecaf03d69163f
+
+COCOAPODS: 1.9.1
